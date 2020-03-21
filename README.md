@@ -21,15 +21,13 @@ This file is build as followed:
     
 - type : separated from each other with a ";" ;
 - description
+- number : number associated to the label and type
 - tag : tags that can help to group informations according to some criteria (complementary to label and type). The tags used are listed below (with XX as any number) and separated from each other with a ";":
 
         - man/woman : gender information about the death person;
-        - sXX : ten in which is the age of the person concerned by the event;
-        - cXX : number of positive-cases reported;
-        - XXa : number around which is the number of actual positive-cases or death (around);
-        - XXo : number above which is the number of actual positive-cases or death (over);
-        - XXl : number under which is the number of actual positive-cases or death (lower);
-        - dXX : number of total death-cases reported.
+        - n-a : tag linked to the number saying that it is an average (average);
+        - n-o : tag linked to the number saying that the real number is over the referenced one(over);
+        - n-l : tag linked to the number saying that the real number is below the referenced one (lower).
 
 - level
 - confidence
