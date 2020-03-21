@@ -13,11 +13,13 @@ This file is build as followed:
 - type
 - description
 - tag : tags that can help to group informations according to some criteria (complementary to label and type). The tags used are listed below (with XX as any number):
+
         - man/woman : gender information about the death person;
         - XXs : ten in which is the age of the person concerned by the event;
         - XXc : number of positive-cases reported;
         - oXXc : number above which is the number of actual positive-cases;
         - XXd : number of total death-cases reported.
+
 - level
 - confidence
 - source: source of the event information ;
