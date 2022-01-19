@@ -1,7 +1,14 @@
 # COVID-19
-Some data about COVID-19 disease
+Some data about COVID-19 disease until 20th of march 2020.
 
-This repository aims to gather some (potentially) interesting data for COVID-19 Data Managers. The main file of this repository is covid19_events.xlsx.
+
+This repository aims to gather some (potentially) interesting data for COVID-19 Data Managers.
+When this repository was created, I didn't know this pandemic would last so long.
+I thus quickly stopped feeding this repository.
+
+However, data gathered can be used.
+
+The main file of this repository is covid19_events.xlsx.
 
 This file is build as followed:
 - id : primary key
